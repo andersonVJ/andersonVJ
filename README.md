@@ -5,7 +5,6 @@ Soy Ingeniero de Software próximo a graduarme del Tecnológico de Antioquia, es
 [![LinkedIn Badge](https://img.shields.io/badge/-anderson--valencia--jimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anderson-valencia-jimenez)](https://linkedin.com/in/anderson-valencia-jimenez)
 [![Gmail Badge](https://img.shields.io/badge/-andersonvalencia23j@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonvalencia23j@gmail.com)](mailto:andersonvalencia23j@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-StockVision%20Demo-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://app.stockvision.site)](https://app.stockvision.site)
-[![Anderson's github activity graph](https://activity-graph.herokuapp.com/graph?username=andersonVJ&theme=xcode)](https://github.com/andersonVJ)
 
 ## ⚡ Tecnologías
 
@@ -20,6 +19,8 @@ Soy Ingeniero de Software próximo a graduarme del Tecnológico de Antioquia, es
 ### Bases de Datos:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### Frontend:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
