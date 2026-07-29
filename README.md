@@ -2,7 +2,7 @@
 
 Soy Ingeniero de Software próximo a graduarme del Tecnológico de Antioquia, especializado en **desarrollo backend con Python, Django y Django REST Framework**. Tengo experiencia diseñando APIs REST seguras, modelando bases de datos PostgreSQL y desplegando aplicaciones en producción con Docker, Nginx y Linux. También he integrado modelos de Machine Learning (XGBoost y Prophet) en soluciones SaaS reales. Estoy abierto a colaborar en proyectos backend, arquitectura de software y automatización. ¡Conectemos!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-anderson--valencia--jimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/anderson-valencia-jimenez)]([https://linkedin.com/in/anderson-valencia-jimenez](https://www.linkedin.com/in/anderson-valencia-jimenez-1185a935b/))
+[![LinkedIn Badge](https://img.shields.io/badge/-anderson--valencia--jimenez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-valencia-jimenez-1185a935b/)](https://www.linkedin.com/in/anderson-valencia-jimenez-1185a935b/)
 [![Gmail Badge](https://img.shields.io/badge/-andersonvalencia23j@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersonvalencia23j@gmail.com)](mailto:andersonvalencia23j@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-StockVision%20Demo-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://app.stockvision.site)](https://app.stockvision.site)
 
@@ -52,7 +52,7 @@ Soy Ingeniero de Software próximo a graduarme del Tecnológico de Antioquia, es
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andersonVJ&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonVJ&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=andersonVJ&theme=tokyonight" />
 </p>
 
 <br>
